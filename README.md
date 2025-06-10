@@ -1,6 +1,8 @@
 # nyc-taxi-spark-analysis-revenue-prof
 This the Big Data analysis using Spark and python. This repo mainly include  Revenue and Profitability Analysis
+
 🔴 Revenue and Profitability Analysis
+
 Total revenue breakdown by day/month/vendor
 
 Average revenue per mile and per minute
